@@ -1,1 +1,2 @@
-Check out this Tkinter application 
+Check out this Tkinter application
+Keep the python file and .png file in the same folder before running the python file to avoid the "No .png file found" error
